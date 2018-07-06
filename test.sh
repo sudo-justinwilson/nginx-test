@@ -1,3 +1,3 @@
 #!/bin/sh
 
-nginx -t
+/usr/sbin/nginx -t
